@@ -24,7 +24,7 @@
 		.layout {
 			display: grid;
 			gap: 2em;
-			grid-template-columns: 1fr 16em;
+			grid-template-columns: 3fr 1fr;
 		}
 	}
 </style>
