@@ -5,7 +5,7 @@
   // console.log(artworks.pagination);
 </script>
 
-<h1>Gallery</h1>
+<h1>My Gallery</h1>
 <div>
   <a href="/gallery" onclick="location.reload()">&lt; Prev</a>
   <a href="/gallery" onclick="location.reload()">Next &gt;</a>
@@ -27,7 +27,6 @@
     height: 1px;
     border-style: dashed;
   }
-  * {padding: 0;}
   figure {margin: 0;}
   div {
     margin: 1em 0;
